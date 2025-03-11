@@ -1,0 +1,6 @@
+THỎA THUẬN SỬ DỤNG PHẦN MỀM (EULA) - OpenManusbyPaNe
+1. Phần mềm này được cung cấp miễn phí, không chịu trách nhiệm cho bất kỳ thiệt hại nào khi sử dụng.
+2. Yêu cầu kết nối mạng để tải các thành phần như OLLAMA và mô hình Llama 3.
+3. Người dùng cần máy tính tối thiểu 8GB RAM và 15GB dung lượng trống.
+4. Không sao chép, phân phối lại phần mềm mà không có sự cho phép của tác giả.
+5. Bằng cách cài đặt, bạn đồng ý với các điều khoản trên.
