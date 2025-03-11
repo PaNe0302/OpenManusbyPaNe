@@ -1,5 +1,6 @@
 # OpenManusbyPaNe
 One click to install OpenManus run local, free (use LLAMA instead of paid API) with UI and can access internet for research
+
 HƯỚNG DẪN SỬ DỤNG OpenManusbyPaNe:
 1. Giải nén file OpenManusbyPaNe.zip.
 2. Nhấp đúp installer.py (hoặc OpenManusbyPaNe.exe nếu đã đóng gói).
